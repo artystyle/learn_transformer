@@ -148,7 +148,7 @@ Section 3.2.3: *"In every layer of our decoder stack, we must prevent positions 
 
 ---
 
-#ИТОГО
+# ИТОГО
 
 1.  **Transformer не помнит порядок**, пока мы не дадим ему **Positional Encoding**.
 2.  **Attention** позволяет связывать любые два слова, независимо от расстояния между ними.
